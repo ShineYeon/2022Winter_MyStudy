@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8442E391278ACE800069035A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8442E390278ACE800069035A /* main.cpp */; };
+		8442E391278ACE800069035A /* 0109_logics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8442E390278ACE800069035A /* 0109_logics.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		8442E38D278ACE800069035A /* 2022Winter_MyStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2022Winter_MyStudy; sourceTree = BUILT_PRODUCTS_DIR; };
-		8442E390278ACE800069035A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8442E390278ACE800069035A /* 0109_logics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 0109_logics.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		8442E38F278ACE800069035A /* 2022Winter_MyStudy */ = {
 			isa = PBXGroup;
 			children = (
-				8442E390278ACE800069035A /* main.cpp */,
+				8442E390278ACE800069035A /* 0109_logics.cpp */,
 			);
 			path = 2022Winter_MyStudy;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8442E391278ACE800069035A /* main.cpp in Sources */,
+				8442E391278ACE800069035A /* 0109_logics.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
