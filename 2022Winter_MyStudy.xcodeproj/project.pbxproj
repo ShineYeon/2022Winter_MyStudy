@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8442E391278ACE800069035A /* 0109_logics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8442E390278ACE800069035A /* 0109_logics.cpp */; };
+		8422863F278AD50F00CBA9D7 /* boj2960.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8422863E278AD50F00CBA9D7 /* boj2960.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8422863E278AD50F00CBA9D7 /* boj2960.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2960.cpp; sourceTree = "<group>"; };
 		8442E38D278ACE800069035A /* 2022Winter_MyStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2022Winter_MyStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		8442E390278ACE800069035A /* 0109_logics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 0109_logics.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,6 +58,7 @@
 		8442E38F278ACE800069035A /* 2022Winter_MyStudy */ = {
 			isa = PBXGroup;
 			children = (
+				8422863E278AD50F00CBA9D7 /* boj2960.cpp */,
 				8442E390278ACE800069035A /* 0109_logics.cpp */,
 			);
 			path = 2022Winter_MyStudy;
@@ -119,7 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8442E391278ACE800069035A /* 0109_logics.cpp in Sources */,
+				8422863F278AD50F00CBA9D7 /* boj2960.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
