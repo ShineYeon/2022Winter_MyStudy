@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8422863F278AD50F00CBA9D7 /* boj2960.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8422863E278AD50F00CBA9D7 /* boj2960.cpp */; };
-		84228654278BD4ED00CBA9D7 /* 1717.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84228653278BD4ED00CBA9D7 /* 1717.cpp */; };
+		8422865C278C1D5300CBA9D7 /* 1516.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8422865B278C1D5300CBA9D7 /* 1516.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +25,10 @@
 /* Begin PBXFileReference section */
 		8422863E278AD50F00CBA9D7 /* boj2960.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2960.cpp; sourceTree = "<group>"; };
 		84228653278BD4ED00CBA9D7 /* 1717.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1717.cpp; sourceTree = "<group>"; };
+		84228655278BEAF500CBA9D7 /* 1922.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1922.cpp; sourceTree = "<group>"; };
+		84228657278C0E5800CBA9D7 /* 2252.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2252.cpp; sourceTree = "<group>"; };
+		84228659278C183B00CBA9D7 /* 2252_teacher.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2252_teacher.cpp; sourceTree = "<group>"; };
+		8422865B278C1D5300CBA9D7 /* 1516.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1516.cpp; sourceTree = "<group>"; };
 		8442E38D278ACE800069035A /* 2022Winter_MyStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2022Winter_MyStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		8442E390278ACE800069035A /* 0109_logics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 0109_logics.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,6 +66,10 @@
 				8422863E278AD50F00CBA9D7 /* boj2960.cpp */,
 				8442E390278ACE800069035A /* 0109_logics.cpp */,
 				84228653278BD4ED00CBA9D7 /* 1717.cpp */,
+				84228655278BEAF500CBA9D7 /* 1922.cpp */,
+				84228657278C0E5800CBA9D7 /* 2252.cpp */,
+				84228659278C183B00CBA9D7 /* 2252_teacher.cpp */,
+				8422865B278C1D5300CBA9D7 /* 1516.cpp */,
 			);
 			path = 2022Winter_MyStudy;
 			sourceTree = "<group>";
@@ -124,8 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8422863F278AD50F00CBA9D7 /* boj2960.cpp in Sources */,
-				84228654278BD4ED00CBA9D7 /* 1717.cpp in Sources */,
+				8422865C278C1D5300CBA9D7 /* 1516.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
