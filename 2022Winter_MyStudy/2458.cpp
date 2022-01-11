@@ -16,14 +16,15 @@ using namespace std;
 
 int N, M; //N은 학생 수, M은 키를 비교한 횟수
 int a, b;
+int answer = 0;
 int compare[501][501];
 
 int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     cin>>N>>M;
-    for(int i=0;i<N;i++){
-        for(int j=0;j<N;j++){
+    for(int i=1;i<=N;i++){
+        for(int j=1;j<=N;j++){
             compare[i][j]= INF;
         }
     }
@@ -32,9 +33,9 @@ int main() {
         compare[a][b] = 0;
     }
     
-    for(int k=0;k<N;k++){
-        for(int i=0;i<N;i++){
-            for(int j=0;j<N;j++){
+    for(int k=1;k<=N;k++){
+        for(int i=1;i<=N;i++){
+            for(int j=1;j<=N;j++){
                 if(i==j) continue;
                 if(compare[i][k]==INF||compare[k][j]==INF) continue;
                 if(compare[i][j]>compare[i][k]+compare[k][j])
@@ -43,22 +44,17 @@ int main() {
         }
     }
     
-    bool isZero=true;
     int cnt=0;
     
-    for(int k=0;k<N;k++){
-        for(int i=0;i<N;i++){
-            for(int j=0;j<N;j++){
-                if(i==j) continue;
-                if(compare[i][j]==0||compare[j][i]==0) continue;
-                else
-                    isZero = false;
-                
-            }
+    for(int i=1;i<=N;i++){
+        cnt=0;
+        for(int j=1;j<=N;j++){
+            if(i==j) cnt++;
+            if(compare[i][j]==0 || compare[j][i]==0)
+                cnt++;
         }
-        if(!isZero)
-            cnt++;
+        if(cnt==N) answer++;
     }
-    cout<<cnt<<endl;
+    cout<<answer<<endl;
     
 }
