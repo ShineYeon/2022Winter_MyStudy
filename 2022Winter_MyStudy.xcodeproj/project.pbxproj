@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8422866C278D75C800CBA9D7 /* 2458.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8422866B278D75C800CBA9D7 /* 2458.cpp */; };
+		843503EC278EC1D000BBF696 /* 1854.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 843503EA278EA93B00BBF696 /* 1854.cpp */; };
+		843503EE278EC4E300BBF696 /* 3830.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 843503ED278EC4E300BBF696 /* 3830.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,11 @@
 		84228665278D493A00CBA9D7 /* 11657.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11657.cpp; sourceTree = "<group>"; };
 		84228667278D555A00CBA9D7 /* 5719.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5719.cpp; sourceTree = "<group>"; };
 		8422866B278D75C800CBA9D7 /* 2458.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2458.cpp; sourceTree = "<group>"; };
+		843503E4278E6F9C00BBF696 /* LCA.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LCA.cpp; sourceTree = "<group>"; };
+		843503E6278E887200BBF696 /* 3176.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3176.cpp; sourceTree = "<group>"; };
+		843503E8278E989300BBF696 /* 1238.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1238.cpp; sourceTree = "<group>"; };
+		843503EA278EA93B00BBF696 /* 1854.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1854.cpp; sourceTree = "<group>"; };
+		843503ED278EC4E300BBF696 /* 3830.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3830.cpp; sourceTree = "<group>"; };
 		8442E38D278ACE800069035A /* 2022Winter_MyStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2022Winter_MyStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		8442E390278ACE800069035A /* 0109_logics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 0109_logics.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -82,6 +88,11 @@
 				84228665278D493A00CBA9D7 /* 11657.cpp */,
 				84228667278D555A00CBA9D7 /* 5719.cpp */,
 				8422866B278D75C800CBA9D7 /* 2458.cpp */,
+				843503E4278E6F9C00BBF696 /* LCA.cpp */,
+				843503E6278E887200BBF696 /* 3176.cpp */,
+				843503E8278E989300BBF696 /* 1238.cpp */,
+				843503EA278EA93B00BBF696 /* 1854.cpp */,
+				843503ED278EC4E300BBF696 /* 3830.cpp */,
 			);
 			path = 2022Winter_MyStudy;
 			sourceTree = "<group>";
@@ -143,7 +154,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8422866C278D75C800CBA9D7 /* 2458.cpp in Sources */,
+				843503EC278EC1D000BBF696 /* 1854.cpp in Sources */,
+				843503EE278EC4E300BBF696 /* 3830.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
