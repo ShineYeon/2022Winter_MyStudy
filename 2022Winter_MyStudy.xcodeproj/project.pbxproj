@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		843503EC278EC1D000BBF696 /* 1854.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 843503EA278EA93B00BBF696 /* 1854.cpp */; };
-		843503EE278EC4E300BBF696 /* 3830.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 843503ED278EC4E300BBF696 /* 3830.cpp */; };
+		843503F8278FE6D400BBF696 /* 2579.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 843503F7278FE6D400BBF696 /* 2579.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +40,10 @@
 		843503E8278E989300BBF696 /* 1238.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1238.cpp; sourceTree = "<group>"; };
 		843503EA278EA93B00BBF696 /* 1854.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1854.cpp; sourceTree = "<group>"; };
 		843503ED278EC4E300BBF696 /* 3830.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3830.cpp; sourceTree = "<group>"; };
+		843503F1278FA73C00BBF696 /* 1932.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1932.cpp; sourceTree = "<group>"; };
+		843503F3278FC0EA00BBF696 /* 11660.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11660.cpp; sourceTree = "<group>"; };
+		843503F5278FDC8C00BBF696 /* 1915.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1915.cpp; sourceTree = "<group>"; };
+		843503F7278FE6D400BBF696 /* 2579.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2579.cpp; sourceTree = "<group>"; };
 		8442E38D278ACE800069035A /* 2022Winter_MyStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2022Winter_MyStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		8442E390278ACE800069035A /* 0109_logics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 0109_logics.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +96,10 @@
 				843503E8278E989300BBF696 /* 1238.cpp */,
 				843503EA278EA93B00BBF696 /* 1854.cpp */,
 				843503ED278EC4E300BBF696 /* 3830.cpp */,
+				843503F1278FA73C00BBF696 /* 1932.cpp */,
+				843503F3278FC0EA00BBF696 /* 11660.cpp */,
+				843503F5278FDC8C00BBF696 /* 1915.cpp */,
+				843503F7278FE6D400BBF696 /* 2579.cpp */,
 			);
 			path = 2022Winter_MyStudy;
 			sourceTree = "<group>";
@@ -154,8 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				843503EC278EC1D000BBF696 /* 1854.cpp in Sources */,
-				843503EE278EC4E300BBF696 /* 3830.cpp in Sources */,
+				843503F8278FE6D400BBF696 /* 2579.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
