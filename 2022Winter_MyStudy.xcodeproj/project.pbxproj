@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		843503FE2791633D00BBF696 /* 9252.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 843503FD2791633D00BBF696 /* 9252.cpp */; };
+		843504022795887E00BBF696 /* 1261.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 843504012795887E00BBF696 /* 1261.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +47,8 @@
 		843503F92791591100BBF696 /* 2098.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2098.cpp; sourceTree = "<group>"; };
 		843503FB279159D400BBF696 /* 2342.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2342.cpp; sourceTree = "<group>"; };
 		843503FD2791633D00BBF696 /* 9252.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9252.cpp; sourceTree = "<group>"; };
+		843503FF27956FDA00BBF696 /* 1916.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1916.cpp; sourceTree = "<group>"; };
+		843504012795887E00BBF696 /* 1261.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1261.cpp; sourceTree = "<group>"; };
 		8442E38D278ACE800069035A /* 2022Winter_MyStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2022Winter_MyStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		8442E390278ACE800069035A /* 0109_logics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 0109_logics.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -106,6 +108,8 @@
 				843503F92791591100BBF696 /* 2098.cpp */,
 				843503FB279159D400BBF696 /* 2342.cpp */,
 				843503FD2791633D00BBF696 /* 9252.cpp */,
+				843503FF27956FDA00BBF696 /* 1916.cpp */,
+				843504012795887E00BBF696 /* 1261.cpp */,
 			);
 			path = 2022Winter_MyStudy;
 			sourceTree = "<group>";
@@ -167,7 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				843503FE2791633D00BBF696 /* 9252.cpp in Sources */,
+				843504022795887E00BBF696 /* 1261.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
