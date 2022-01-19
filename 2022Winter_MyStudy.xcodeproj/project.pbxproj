@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8401DA2A279685DE000E3C63 /* 4485.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8401DA29279685DE000E3C63 /* 4485.cpp */; };
+		84D534B3279816D00080932C /* 10830_mine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84D534B2279816D00080932C /* 10830_mine.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +53,9 @@
 		843504012795887E00BBF696 /* 1261.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1261.cpp; sourceTree = "<group>"; };
 		8442E38D278ACE800069035A /* 2022Winter_MyStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2022Winter_MyStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		8442E390278ACE800069035A /* 0109_logics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 0109_logics.cpp; sourceTree = "<group>"; };
+		84D534AE279800940080932C /* 11401.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11401.cpp; sourceTree = "<group>"; };
+		84D534B027980E9B0080932C /* 10830.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10830.cpp; sourceTree = "<group>"; };
+		84D534B2279816D00080932C /* 10830_mine.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10830_mine.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,9 @@
 				843504012795887E00BBF696 /* 1261.cpp */,
 				8401DA2727966BAC000E3C63 /* 1504.cpp */,
 				8401DA29279685DE000E3C63 /* 4485.cpp */,
+				84D534AE279800940080932C /* 11401.cpp */,
+				84D534B027980E9B0080932C /* 10830.cpp */,
+				84D534B2279816D00080932C /* 10830_mine.cpp */,
 			);
 			path = 2022Winter_MyStudy;
 			sourceTree = "<group>";
@@ -175,7 +181,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8401DA2A279685DE000E3C63 /* 4485.cpp in Sources */,
+				84D534B3279816D00080932C /* 10830_mine.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
